@@ -17,6 +17,7 @@ require (
 	github.com/confio/ics23/go v0.7.0
 	github.com/cosmos/btcutil v1.0.4
 	github.com/cosmos/cosmos-proto v1.0.0-alpha7
+	github.com/cosmos/cosmos-sdk v0.46.0-rc3
 	github.com/cosmos/cosmos-sdk/db v1.0.0-beta.1.0.20220726092710-f848e4300a8a
 	github.com/cosmos/cosmos-sdk/store/tools/ics23 v0.0.0-20220726092710-f848e4300a8a
 	github.com/cosmos/go-bip39 v1.0.0
@@ -30,7 +31,7 @@ require (
 	github.com/google/uuid v1.3.0
 	github.com/gorilla/handlers v1.5.1
 	github.com/gorilla/mux v1.8.0
-	github.com/grpc-ecosystem/go-grpc-middleware v1.3.0
+	github.com/grpc-ecosystem/go-grpc-middleware v1.4.0
 	github.com/grpc-ecosystem/grpc-gateway v1.16.0
 	github.com/hashicorp/go-getter v1.6.2
 	github.com/hashicorp/golang-lru v0.5.5-0.20210104140557-80c98217689d
