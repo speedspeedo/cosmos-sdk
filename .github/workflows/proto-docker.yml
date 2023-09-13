@@ -44,7 +44,7 @@ jobs:
           
 
       - name: Publish to GHCR
-        uses: docker/build-push-action@v3
+        uses: docker/build-push-action@v5
         with:
           context: ./contrib/devtools
           platforms: linux/amd64,linux/arm64
