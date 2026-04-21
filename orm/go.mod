@@ -1,13 +1,13 @@
 module github.com/cosmos/cosmos-sdk/orm
 
-go 1.18
+go 1.21
 
 require (
 	cosmossdk.io/errors v1.0.0-beta.7
 	github.com/cosmos/cosmos-proto v1.0.0-alpha7
 	github.com/cosmos/cosmos-sdk/api v0.1.0
 	github.com/golang/mock v1.6.0
-	github.com/google/go-cmp v0.5.8
+	github.com/google/go-cmp v0.7.0
 	github.com/iancoleman/strcase v0.2.0
 	github.com/regen-network/gocuke v0.6.2
 	github.com/stretchr/testify v1.8.0
